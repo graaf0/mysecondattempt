@@ -1,0 +1,2 @@
+# mysecondattempt
+elements of AI
