@@ -4,7 +4,7 @@
 Government Subsidies for Sustainable Energy Transition in Businesses
 
 
-## Summary
+##Summary
 
 This project aims to optimize government subsidies targeting businesses undergoing the transition to sustainable energy practices. Leveraging AI and user data, the initiative seeks to efficiently allocate subsidies, encouraging and facilitating the adoption of renewable energy and eco-friendly technologies.
 
